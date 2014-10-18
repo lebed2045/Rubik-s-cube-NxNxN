@@ -1,4 +1,4 @@
-Program with solves Rubik's cube
+**Program with solves Rubik's cube**
 using permutation group.
 
 For more info, please see: http://en.wikipedia.org/wiki/Rubik%27s_Cube_group
@@ -6,8 +6,9 @@ For more info, please see: http://en.wikipedia.org/wiki/Rubik%27s_Cube_group
 For dimension 2x2x2 where is function which solves it by 
 naitive graphs algorithm (meet it the middle)
 
+---
 Sample of working (calculation of Gog's Number for 2x2x2):
-
+``
 sage problem_5_15.sage 
         +-------+                
         |  1  2 |
@@ -38,3 +39,4 @@ random item =  (1,18,4,15)(2,16,20,9)(3,6,8)(5,7,11,12)(10,13,19)
 orbits =  [[1, 3, 12, 4, 14, 16, 21, 15, 2, 13, 20, 6, 10, 7, 5, 17, 11, 9, 8, 19, 18]]
 BFS 100% completed.
 God's number =  11  
+``
