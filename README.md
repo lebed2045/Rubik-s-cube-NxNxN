@@ -2,6 +2,8 @@ Program with solves Rubik's cube
 ---
 using permutation group.
 
+Generalization of http://www.gap-system.org/Doc/Examples/rubik.html
+
 For more info, please see: http://en.wikipedia.org/wiki/Rubik%27s_Cube_group
 
 For dimension 2x2x2 where is function which solves it by 
