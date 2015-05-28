@@ -1,8 +1,8 @@
-Program with solves Rubik's cube
+Program solves Rubik's cube NxNxN
 ---
-using permutation group.
+Program is writen using http://www.sagemath.org/
 
-Generalization of http://www.gap-system.org/Doc/Examples/rubik.html
+This method is generalization of http://www.gap-system.org/Doc/Examples/rubik.html
 
 For more info, please see: http://en.wikipedia.org/wiki/Rubik%27s_Cube_group
 
